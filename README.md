@@ -8,7 +8,8 @@ At this stage, this project is a script for the console, thanks to which you can
 4. Get the URL of all videos from a playlist on YouTube
 5. Download all videos from the playlist in a couple of clicks
 
-<br>In the future, we plan to create a user-friendly interface, as well as add asynchronous downloading of videos from a playlist to speed up the process.<br/>
+<br>Planned for the coming week 03/04/2024-03/11/2024:bloading indicator<br/>
+In the future, I plan to create a user-friendly interface, as well as add asynchronous downloading of videos from a playlist to speed up the process.<br/>
 
 ## Instructions:
 
